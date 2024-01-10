@@ -1,13 +1,14 @@
 body{ 
     background-color: azure;
 }
-
+/* The title*/
 #title{ 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 44px;
     font-weight: 300;
     text-align: center;
-}
+} 
+/* Image in the page */
 img{ 
     height: auto;
     width: fit-content;
@@ -29,6 +30,7 @@ img{
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
 }
+/* return navigation */
 .return{ 
       color: brown;
       text-align: left;
