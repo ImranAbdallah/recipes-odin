@@ -1,3 +1,12 @@
+html{
+    box-sizing: border-box;
+}
+*,
+*::before
+*::after{
+    box-sizing: inherit;
+}
+
 body{ 
     background-color: azure;
 }
@@ -8,11 +17,11 @@ body{
     font-weight: 300;
     text-align: center;
 }
-img{ 
-    height: auto;
-    width: fit-content;
-    margin: auto;
-    display: block;
+
+img{
+    width: auto;
+    height: fit-content;
+    display: inline-block;
 }
 .description{ 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
