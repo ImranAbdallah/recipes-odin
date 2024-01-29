@@ -28,17 +28,27 @@ p{
     padding: 10px 20px;
     margin-bottom: 10px;
     border: 2px solid;
-    display: inline-block;
+    display: flex;
+    background-color: honeydew;
+    border-radius: 1rem;
 }
 .second-link{
     padding: 10px 20px;
     margin-top: 10px;
     border: 1px solid;
-    display: inline-block;
+    display: flex;
+    background-color: honeydew;
+    border-radius: 1rem;
 }
 .third-link{
     padding: 10px 20px;
     margin-top: 10px;
     border: 2px solid;
-    display: inline-block;
+    display: flex;
+    background-color: honeydew;
+    border-radius: 1rem;
+}
+img{
+    height: 500px;
+    width: auto;
 }
