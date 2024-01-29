@@ -29,6 +29,7 @@ p{
     margin-bottom: 10px;
     border: 2px solid;
     display: flex;
+    flex: 1;
     background-color: honeydew;
     border-radius: 1rem;
 }
@@ -37,6 +38,7 @@ p{
     margin-top: 10px;
     border: 1px solid;
     display: flex;
+    flex: 1;
     background-color: honeydew;
     border-radius: 1rem;
 }
@@ -45,6 +47,7 @@ p{
     margin-top: 10px;
     border: 2px solid;
     display: flex;
+    flex: 1;
     background-color: honeydew;
     border-radius: 1rem;
 }
